@@ -1,6 +1,6 @@
-[submodule "FE with react"]
-	path = fe-react
+[submodule "Fe-with-react"]
+	path = Fe-with-react
 	url = https://github.com/anhtudo97/mern-fe
-[submodule "BE with mysql"]
-	path = be-mysql
+[submodule "Be-with-nestjs-mysql"]
+	path = Be-with-nestjs-mysql
 	url = https://github.com/anhtudo97/mern-be-cars-nestjs
